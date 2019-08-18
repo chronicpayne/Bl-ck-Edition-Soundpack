@@ -1,5 +1,11 @@
 # Chesthole-Bl-ck-Edition
 
-Merge of Chesthole and @'s soundpacks with sound level tweaks, additional environmental fx, and a CO.AG + Remastered volume Chesthole soundpack.
+ChestHole Bl@ck Edition
 
-Credit goes to the original creators where credit is due.
+A merge of ChestHole and @'s soundpacks, with sound level rebalance, additional environmental FX.
+Also featuring a combined CO.AG soundtrack + Remastered ChestHole soundtrack.
+
+Credit goes where credit is due.
+https://github.com/damalsk/damalsksoundpack
+http://chezzo.com/
+
