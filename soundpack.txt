@@ -1,5 +1,5 @@
-#ChestHole Bl@ck Edition
+#Bl@ck Edition soundpack
 #Name of the soundpack
-NAME: ChestHole Bl@ck Edition
+NAME: Bl@ck Edition soundpack
 #Viewing name of the soundpack
-VIEW: ChestHole Bl@ck Edition
+VIEW: Bl@ck Edition soundpack
