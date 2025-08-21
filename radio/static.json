@@ -1,0 +1,12 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "radio",
+    "variant": "static",
+    "volume": 100,
+    "files": [ 
+	  "radio/static.ogg" ,
+	  "radio/static1.wav" 
+	]  
+  }
+]
