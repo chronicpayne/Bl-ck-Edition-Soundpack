@@ -2,40 +2,41 @@
 
 ⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
 
-Starting out as a personal project to merge a few basic sounds from ChestHole with @'s soundpacks, the pack has grown over the years to include peices of CC's soundpack (along with it's CO.AG tracks), additional effects/sounds, rebalancing, and much more. 
+Starting out as a personal project to merge sounds from ChestHole's soundpack with @'s, the compilation pack has grown over the years to include bits and peices of CC's (along w/CO.AG tracks), my own additional effects/sounds, rebalancing, and much more. 
 
-It is, to the best of my knowledge, the most complete soundpack available!
+It is, to the best of my knowledge, the most complete soundpack available!!
 
-Suggestions and feedback welcome.
 
-[Credits](#credits) for the individual packs belong to their creators.  
+[Credits](#credits) for the individual packs belong to their respective creators.  
 
 ⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
 
 
 ## Summary
 
-The original purpose of this soundpack was to merge the ChestHole and @ soundpacks while also taking advantages of the new soundhooks that were added into the game, at that time.
-Later it became a way to keep the @'s soundpack going, who in turn had kept the original 2ch's soundpack going after *it* was discontinued, as well as add in more weather effects, rebalancing, weapon sounds, etc. that I found fit the game well and filled gaps that were present in these existing packs.
+The original purpose of this soundpack was to merge the base ChestHole and @ soundpacks while also taking advantages of the new soundhooks that were added into the game, around that time (2019).
 
-The choice for music was a no brainer - CO.AG does excellent work, and was balanced well by Skybreach, so this pack is the current music pack, although in the future I will likely add more, keeping to the same vein as CO.AG.
+Later it became a way to keep @'s soundpack updated (who in turn had kept the original 2ch's soundpack going after *it* was discontinued) with current versions of the game, as well as add in more weather effects, rebalancing, weapon sounds, etc. that I felt would fit the game and filled in gaps that were present in these existing soundpacks.
+
+The choice for music was a no brainer - CO.AG does excellent work, and was balanced well by Skybreach - although in the future I may consider adding more, keeping to the same atmospheric vein.
 
 ⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
 
 ## Current & Long Term Goals 
 
-- Rebalance feral sounds (CC's are too quiet, or mine are too loud, or both)
-- Add more handgun variant sounds
-- Add more small caliber rifle sounds
-- Updating more heavy weapon sounds
-- Locating and updating sounds from items newly added to the game, or that were otherwise missed by @
+- Rebalance feral sounds (CC's are too quiet, mine are too loud, or both)
+- Adding handgun variant sounds
+- Adding small caliber rifle variant sounds
+- Updating and adding more heavy weapon variant sounds
+- Locating/adding/updating sounds from items recently added to the base game, popular mods, or that were otherwise missed by @
+- Adding more music tracks that fit the vibe  (CO.AG, Kevin Macleod, etc)
 
 ⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
 
 
 ## Changes & Compositions
 
-As the initial intention wasn't a public facing soundpack, and many of these changes were made long ago, it's fair to say this should be used as a general reference only, and may be incomplete or incorrect:
+As the initial intention here was never a public facing soundpack, and many of these changes were made years ago, it's fair to say this section should be used as a general reference only and may be incomplete or incorrect:
 
 - Combined Chesthole base movement sounds along with the majority of @'s soundpack. This forms the base of the pack.
 - CO.AG music added, rebalanced by Skybreach and provided in CC-soundpack
