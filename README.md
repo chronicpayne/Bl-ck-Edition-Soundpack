@@ -48,6 +48,18 @@ As the initial intention wasn't a public facing soundpack, and many of these cha
   
 ⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
 
+## What if I don't like something!
+
+Please reach out and let me know on Git, Discord, or social media.
+
+I am open to suggestions, constructive criticism, and feedback on missing or poor audio.
+
+Alternatively, CC Soundpack is another very up to date soundpack - you may find that more to your taste!
+
+Link in the credits below.
+
+⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
+
 ## Credits
 
 @'s Soundpack: https://github.com/damalsk/damalsksoundpack
