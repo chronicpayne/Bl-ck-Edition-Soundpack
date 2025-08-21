@@ -1,15 +1,16 @@
 # ***Bl@ck Edition Soundpack***
 
-⛓████████⛓████████⛓⛓████████⛓████████⛓⛓████████⛓████████⛓
+⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
 
 Starting out as a personal project to merge a few basic sounds from ChestHole with @'s soundpacks, the pack has grown over the years to include peices of CC's soundpack (along with it's CO.AG tracks), additional effects/sounds, rebalancing, and much more. 
 
-
 It is, to the best of my knowledge, the most complete soundpack available!
+
+Suggestions and feedback welcome.
 
 [Credits](#credits) for the individual packs belong to their creators.  
 
-⛓████████⛓████████⛓⛓████████⛓████████⛓⛓████████⛓████████⛓
+⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
 
 
 ## Summary
@@ -19,7 +20,7 @@ Later it became a way to keep the @'s soundpack going, who in turn had kept the 
 
 The choice for music was a no brainer - CO.AG does excellent work, and was balanced well by Skybreach, so this pack is the current music pack, although in the future I will likely add more, keeping to the same vein as CO.AG.
 
-⛓████████⛓████████⛓⛓████████⛓████████⛓⛓████████⛓████████⛓
+⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
 
 ## Current & Long Term Goals 
 
@@ -29,7 +30,7 @@ The choice for music was a no brainer - CO.AG does excellent work, and was balan
 - Updating more heavy weapon sounds
 - Locating and updating sounds from items newly added to the game, or that were otherwise missed by @
 
-⛓████████⛓████████⛓⛓████████⛓████████⛓⛓████████⛓████████⛓
+⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
 
 
 ## Changes & Compositions
@@ -45,7 +46,7 @@ As the initial intention wasn't a public facing soundpack, and many of these cha
 - Added a high caliber sound effect for Barret 50cal
 - Adjusted/added Laser and Plasma sound effects.
   
-⛓████████⛓████████⛓⛓████████⛓████████⛓⛓████████⛓████████⛓
+⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
 
 ## Credits
 
@@ -55,7 +56,7 @@ CC-Soundpack: https://github.com/Fris0uman/CDDA-Soundpacks
 
 ChestHoles Soundpack: https://github.com/Chezzo/Cataclysm-DDA/tree/ChezzoSounds
 
-⛓████████⛓████████⛓⛓████████⛓████████⛓⛓████████⛓████████⛓
+⛓████████⛓████████⛓████████⛓████████⛓████████⛓████████⛓
 
 CDDA Devs: https://github.com/CleverRaven/Cataclysm-DDA
 
